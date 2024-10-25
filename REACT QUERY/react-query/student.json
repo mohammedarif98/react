@@ -1,0 +1,45 @@
+
+{
+    "students" : [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "age": 20,
+            "grade": "A",
+            "subject": "Mathematics",
+            "email": "alice.johnson@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "age": 22,
+            "grade": "B",
+            "subject": "Physics",
+            "email": "bob.smith@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Carol Davis",
+            "age": 19,
+            "grade": "A",
+            "subject": "Chemistry",
+            "email": "carol.davis@example.com"
+        },
+        {
+            "id": 4,
+            "name": "David Wilson",
+            "age": 21,
+            "grade": "C",
+            "subject": "Biology",
+            "email": "david.wilson@example.com"
+        },
+        {
+            "id": 5,
+            "name": "Emily Brown",
+            "age": 20,
+            "grade": "B",
+            "subject": "History",
+            "email": "emily.brown@example.com"
+        }          
+    ]
+}

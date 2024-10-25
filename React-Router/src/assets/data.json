@@ -1,0 +1,9 @@
+{
+    "jobs":[
+        {"id": 1, "name": "mohammed arif", "position": "frontEnd Developer","salary": 53424 },
+        {"id": 2, "name": "mohammed", "position": "frontEnd Developer","salary": 50000 },
+        {"id": 3, "name": "sreekanth", "position": "fullsatck Developer","salary": 153424 },
+        {"id": 4, "name": "mohammed hafis", "position": "backEnd Developer","salary": 103424 },
+        {"id": 4, "name": "noel", "position": "senior backEnd Developer","salary": 203424 }
+    ]
+}
